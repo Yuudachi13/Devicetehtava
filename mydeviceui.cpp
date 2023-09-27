@@ -46,7 +46,7 @@ void MyDeviceUI::uiShowMenu()
             uiShowDeviceInformation();
             break;
         case 5:
-            cout<<"Fatality bye"<<endl;
+            cout<<"Fatality. Device Win"<<endl;
             break;
         default:
             cout<<"error try again"<<endl;
